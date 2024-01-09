@@ -9,10 +9,14 @@ public class Main {
 		animals.add(new Dog());
 		animals.add(new Chicken());
 		animals.add(new Duck());
+    animals.add(new Lynx());
 		animals.add(new Cow());
     animals.add(new Owl());
     animals.add(new Cat());
     animals.add(new Flamingo());
+    animals.add(new Lion());
+
+ main
 
 		/*for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
