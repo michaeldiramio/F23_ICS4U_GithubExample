@@ -18,6 +18,7 @@ public class Main {
     animals.add(new Lion());
     animals.add(new Pigeon());
     animals.add(new Lion());
+    animals.add(new Bear());
 
 
 		/*for(int i = 0; i < animals.size(); i++) {
