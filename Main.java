@@ -9,6 +9,7 @@ public class Main {
 		animals.add(new Dog());
 		animals.add(new Chicken());
 		animals.add(new Duck());
+    animals.add(new Cat());
 
 		/*for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
