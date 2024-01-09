@@ -9,6 +9,7 @@ public class Main {
 		animals.add(new Dog());
 		animals.add(new Chicken());
 		animals.add(new Duck());
+		animals.add(new Cow());
     animals.add(new Owl());
     animals.add(new Cat());
 
