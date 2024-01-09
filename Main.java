@@ -15,8 +15,9 @@ public class Main {
     animals.add(new Cat());
     animals.add(new Flamingo());
     animals.add(new Lion());
+    animals.add(new Pigeon());
+    animals.add(new Lion());
 
- main
 
 		/*for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
