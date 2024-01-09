@@ -11,10 +11,10 @@ public class Main {
 		animals.add(new Duck());
     animals.add(new Lynx());
 		animals.add(new Cow());
-  animals.add(new Owl());
-  animals.add(new Cat());
+    animals.add(new Owl());
+    animals.add(new Cat());
+    animals.add(new Pigeon());
     animals.add(new Lion());
-
 
 		/*for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
