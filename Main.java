@@ -13,6 +13,7 @@ public class Main {
 		animals.add(new Cow());
   animals.add(new Owl());
   animals.add(new Cat());
+    animals.add(new Lion());
 
 
 		/*for(int i = 0; i < animals.size(); i++) {
