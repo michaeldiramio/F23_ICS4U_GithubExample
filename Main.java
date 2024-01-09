@@ -11,6 +11,7 @@ public class Main {
 		animals.add(new Duck());
     animals.add(new Lynx());
 		animals.add(new Cow());
+    animals.add(new orangutan());
     animals.add(new Owl());
     animals.add(new Cat());
     animals.add(new Flamingo());
